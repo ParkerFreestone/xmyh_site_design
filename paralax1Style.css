@@ -1,0 +1,51 @@
+
+.parallax-1 {
+  height: 700px;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../landingBackground.jpg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #D3F3EE;
+  font-size: 2rem;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto Slab', serif;
+}
+
+.parallax-2 {
+  height: 700px;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../crossroadsBackground.png);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #D3F3EE;
+  font-size: 2rem;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto Slab', serif;
+}
+
+.parallax-3 {
+  height: 700px;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../crossroadsBackground.jpg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #D3F3EE;
+  font-size: 2rem;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto Slab', serif;
+}
